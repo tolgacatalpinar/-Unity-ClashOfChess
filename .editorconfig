@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS0649: ButtonHandler.coinPrefab' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur
+dotnet_diagnostic.CS0649.severity = silent
