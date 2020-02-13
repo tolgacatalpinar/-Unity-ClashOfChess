@@ -5,6 +5,6 @@
   
 # Screenshots from the game
 
-![Intro](Screenshots/Intro.png)
+![GameIntro](Screenshots/Intro.png)
 ![Formation](Screenshots/Formation.png)
 ![Fight](Screenshots/Fight.png)
