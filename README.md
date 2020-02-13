@@ -5,6 +5,11 @@
   
 # Screenshots from the game
 
+# Intro
 ![GameIntro](Screenshots/GameIntro.png)
+
+# Formation of army and towers
 ![Formation](Screenshots/Formation.png)
+
+# Fight scene
 ![Fight](Screenshots/Fight.png)
